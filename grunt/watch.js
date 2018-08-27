@@ -6,7 +6,7 @@ module.exports = function (grunt) {
     },
     html: {
       files: ['src/*.html'],
-      tasks: ['copy'],
+      tasks: ['htmlmin'],
     },
     css: {
       files: ['src/sass/**/*.scss'],
