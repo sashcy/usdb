@@ -3,7 +3,7 @@ module.exports = {
         files: [{
             expand: false,
             src: ['src/js/*.js'],
-            dest: 'dist/assets/js/usdb.min.js',
+            dest: 'dist/assets/js/code.min.js',
         }]
     }
 };

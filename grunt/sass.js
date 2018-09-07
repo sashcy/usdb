@@ -8,8 +8,8 @@ module.exports = {
       },
      files: [
         { 
-          src: 'src/sass/usdb.scss',              
-          dest: 'dist/assets/css/usdb.css' 
+          src: 'src/sass/all.scss',              
+          dest: 'dist/assets/css/style.css' 
         }, 
       ],
     }, 

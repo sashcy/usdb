@@ -6,7 +6,7 @@ module.exports = {
     },
     dist: {
         src: [
-            'dist/assets/css/usdb.css'
+            'dist/assets/css/style.css'
         ],
     }
 };
